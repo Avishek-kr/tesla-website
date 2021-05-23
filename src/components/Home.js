@@ -3,6 +3,7 @@ import styled from 'styled-components'
 import Footer from './Footer'
 import Section from './Section'
 
+
 function Home() {
     return (
         <Container>
@@ -64,5 +65,4 @@ export default Home
 
 const Container= styled.div `
     height: 100vh;
-    
 `
